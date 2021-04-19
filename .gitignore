@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+.idea
+hello-world-2.iml
